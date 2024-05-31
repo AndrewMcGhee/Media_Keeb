@@ -468,7 +468,7 @@
       "plot": "Gerbers/Gerbers_Updated/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "mediaKeeb_V1.step",
       "svg": "",
       "vrml": ""
     },

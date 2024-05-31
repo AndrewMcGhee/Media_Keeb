@@ -746,7 +746,7 @@
 			(pintype "passive")
 			(uuid "600a51fd-e293-4234-b85c-631c0941ec68")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1377,7 +1377,7 @@
 			(pintype "passive")
 			(uuid "7134b00c-83f6-4978-905a-45d3c63ceba6")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1711,7 +1711,7 @@
 			(pintype "passive")
 			(uuid "bfc3a1f4-3f73-4d65-b894-6b0c40a7e96f")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2045,7 +2045,7 @@
 			(pintype "passive")
 			(uuid "80f88381-8694-4a42-a02e-7abb6c0c6dae")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2490,7 +2490,7 @@
 			(pintype "passive")
 			(uuid "89cbe570-50d2-4e3b-b5ac-5b8c45e04d80")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2824,7 +2824,7 @@
 			(pintype "passive")
 			(uuid "61883b21-45dd-43b4-a41d-55e7247abd3e")
 		)
-		(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6016,6 +6016,7 @@
 	(dimension
 		(type aligned)
 		(layer "Edge.Cuts")
+<<<<<<< Updated upstream
 		(uuid "1d6bb752-b612-4238-986f-dae37fc482fe")
 		(pts
 			(xy 134.5 47) (xy 134.5 97)
@@ -6025,6 +6026,17 @@
 			(at 192.35 72 90)
 			(layer "Edge.Cuts")
 			(uuid "1d6bb752-b612-4238-986f-dae37fc482fe")
+=======
+		(uuid "3425bffa-6704-43e0-a2a6-7abe6326249a")
+		(pts
+			(xy 141.5 47) (xy 141.5 97)
+		)
+		(height -36.5)
+		(gr_text "50.0000 mm"
+			(at 176.85 72 90)
+			(layer "Edge.Cuts")
+			(uuid "3425bffa-6704-43e0-a2a6-7abe6326249a")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -6115,6 +6127,7 @@
 	(dimension
 		(type aligned)
 		(layer "Edge.Cuts")
+<<<<<<< Updated upstream
 		(uuid "8bd27341-4526-4c05-9a66-8f1abf54002e")
 		(pts
 			(xy 97 60.5) (xy 172 60.5)
@@ -6190,6 +6203,17 @@
 			(at 99 43.35 0)
 			(layer "Edge.Cuts")
 			(uuid "d26ae348-b2e5-4cf9-b049-40f752e8f92b")
+=======
+		(uuid "7f70a437-85f2-4a18-a445-2a8a4ca7c80b")
+		(pts
+			(xy 97 56.5) (xy 172 56.5)
+		)
+		(height -20.5)
+		(gr_text "75.0000 mm"
+			(at 134.5 34.85 0)
+			(layer "Edge.Cuts")
+			(uuid "7f70a437-85f2-4a18-a445-2a8a4ca7c80b")
+>>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
