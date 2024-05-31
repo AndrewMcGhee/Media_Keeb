@@ -6016,17 +6016,6 @@
 	(dimension
 		(type aligned)
 		(layer "Edge.Cuts")
-<<<<<<< Updated upstream
-		(uuid "1d6bb752-b612-4238-986f-dae37fc482fe")
-		(pts
-			(xy 134.5 47) (xy 134.5 97)
-		)
-		(height -59)
-		(gr_text "50.0000 mm"
-			(at 192.35 72 90)
-			(layer "Edge.Cuts")
-			(uuid "1d6bb752-b612-4238-986f-dae37fc482fe")
-=======
 		(uuid "3425bffa-6704-43e0-a2a6-7abe6326249a")
 		(pts
 			(xy 141.5 47) (xy 141.5 97)
@@ -6036,7 +6025,6 @@
 			(at 176.85 72 90)
 			(layer "Edge.Cuts")
 			(uuid "3425bffa-6704-43e0-a2a6-7abe6326249a")
->>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
@@ -6127,83 +6115,6 @@
 	(dimension
 		(type aligned)
 		(layer "Edge.Cuts")
-<<<<<<< Updated upstream
-		(uuid "8bd27341-4526-4c05-9a66-8f1abf54002e")
-		(pts
-			(xy 97 60.5) (xy 172 60.5)
-		)
-		(height -26.5)
-		(gr_text "75.0000 mm"
-			(at 134.5 32.85 0)
-			(layer "Edge.Cuts")
-			(uuid "8bd27341-4526-4c05-9a66-8f1abf54002e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.05)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Edge.Cuts")
-		(uuid "cf30cb14-e573-42d3-8e3a-145cbaa16ed6")
-		(pts
-			(xy 101 51) (xy 101 47)
-		)
-		(height -6.5)
-		(gr_text "4.0000 mm"
-			(at 93.35 49 90)
-			(layer "Edge.Cuts")
-			(uuid "cf30cb14-e573-42d3-8e3a-145cbaa16ed6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.05)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Edge.Cuts")
-		(uuid "d26ae348-b2e5-4cf9-b049-40f752e8f92b")
-		(pts
-			(xy 101 51) (xy 97 51)
-		)
-		(height 6.5)
-		(gr_text "4.0000 mm"
-			(at 99 43.35 0)
-			(layer "Edge.Cuts")
-			(uuid "d26ae348-b2e5-4cf9-b049-40f752e8f92b")
-=======
 		(uuid "7f70a437-85f2-4a18-a445-2a8a4ca7c80b")
 		(pts
 			(xy 97 56.5) (xy 172 56.5)
@@ -6213,7 +6124,6 @@
 			(at 134.5 34.85 0)
 			(layer "Edge.Cuts")
 			(uuid "7f70a437-85f2-4a18-a445-2a8a4ca7c80b")
->>>>>>> Stashed changes
 			(effects
 				(font
 					(size 1 1)
